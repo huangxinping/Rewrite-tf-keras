@@ -12,5 +12,6 @@ Datasets: Custom
 
 
 ## References  
-[Rewrite](https://github.com/kaonashi-tyc/Rewrite)  
-[Font](https://github.com/LingDong-/qiji-font)  
+[Rewrite](https://github.com/kaonashi-tyc/Rewrite)   
+[Font](https://github.com/LingDong-/qiji-font)   
+[XingZi-tf-keras](https://github.com/huangxinping/XingZi-tf-keras/) - An unofficial implementation
