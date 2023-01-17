@@ -2,7 +2,7 @@
 ![output](./output.jpg)    
 
 ## Movitaion
-Rewrite the official code in Tensorflow 2 and keras.    
+Remade the official code in Tensorflow 2 and keras.    
 
 ## Environments
 
